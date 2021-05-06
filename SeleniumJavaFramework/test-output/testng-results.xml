@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-06T20:18:28 EEST" name="Default suite" finished-at="2021-05-06T20:23:55 EEST" duration-ms="326864">
+    <groups>
+    </groups>
+    <test started-at="2021-05-06T20:18:28 EEST" name="Default test" finished-at="2021-05-06T20:23:55 EEST" duration-ms="326864">
+      <class name="Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:18:28 EEST" name="setUp" finished-at="2021-05-06T20:18:28 EEST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:18:28 EEST" name="setUpTest" finished-at="2021-05-06T20:18:30 EEST" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="test1()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:18:30 EEST" name="test1" finished-at="2021-05-06T20:18:48 EEST" duration-ms="17690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test10()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:18:48 EEST" name="test10" finished-at="2021-05-06T20:18:57 EEST" duration-ms="8764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:18:57 EEST" name="test11" finished-at="2021-05-06T20:19:09 EEST" duration-ms="12762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:19:09 EEST" name="test12" finished-at="2021-05-06T20:19:20 EEST" duration-ms="10526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test13()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:19:20 EEST" name="test13" finished-at="2021-05-06T20:19:31 EEST" duration-ms="11382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method signature="test14()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:19:31 EEST" name="test14" finished-at="2021-05-06T20:19:44 EEST" duration-ms="12637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method signature="test2()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:19:44 EEST" name="test2" finished-at="2021-05-06T20:20:21 EEST" duration-ms="37278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:20:21 EEST" name="test3" finished-at="2021-05-06T20:20:58 EEST" duration-ms="36541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:20:58 EEST" name="test4" finished-at="2021-05-06T20:21:11 EEST" duration-ms="13637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:21:11 EEST" name="test5" finished-at="2021-05-06T20:21:24 EEST" duration-ms="12537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:21:24 EEST" name="test6" finished-at="2021-05-06T20:22:02 EEST" duration-ms="37813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:22:02 EEST" name="test7" finished-at="2021-05-06T20:22:41 EEST" duration-ms="38773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:22:41 EEST" name="test8" finished-at="2021-05-06T20:23:16 EEST" duration-ms="35389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:23:16 EEST" name="test9" finished-at="2021-05-06T20:23:54 EEST" duration-ms="37975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:23:54 EEST" name="tearDownBrowser" finished-at="2021-05-06T20:23:55 EEST" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests@1da2cb77]" started-at="2021-05-06T20:23:55 EEST" name="tearDown" finished-at="2021-05-06T20:23:56 EEST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
